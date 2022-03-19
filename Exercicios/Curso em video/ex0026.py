@@ -1,5 +1,0 @@
-s = str(input('Digite uma palavra:')).strip()
-v = s.upper()
-print( 'A letra A apareceu {} vezes na frase'.format(v.count('A')))
-print( 'Na posição {} pela primeira vez'.format(v.find('A')+1))
-print( 'Na posiçao {} pela ultima  vez'.format(v.rfind('A')+1))

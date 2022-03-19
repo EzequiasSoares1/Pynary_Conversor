@@ -1,5 +1,0 @@
-n = str(input('digite um nome:')).strip()
-print('maiucula:',n.upper())
-print('minuscula:',n.lower())
-print('seu nome tem ao todo:{}'.format(len(n) - n.count(" ")))
-print('seu primeiro nome tem: {}'.format(n.find(' ')))
