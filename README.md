@@ -1,23 +1,24 @@
-# Conversor de Número para Binário - Projeto de Teste em Python
+# Binary Number Converter - Python Test Project
 
-Este é um projeto desenvolvido em grupo como parte de um teste de conhecimento em Python e lógica de programação. O projeto consiste em um conversor de números para binários.
+This is a project developed as a group as part of a Python and programming logic knowledge test. The project consists of a number to binary converter.
 
-## Objetivo
+## Objective
 
-O objetivo deste projeto é demonstrar a habilidade em programação em Python e a compreensão da lógica por trás da conversão de números para a representação binária.
+The objective of this project is to demonstrate programming skills in Python and understanding of the logic behind number to binary conversion.
 
-## Execução
+## Execution
 
-Para executar o programa, siga os passos abaixo:
+To execute the program, follow the steps below:
 
-1. Acesse a pasta "Projeto Conversor Binario".
-2. Localize o arquivo "Pynary_Release.py".
-3. Faça o download do arquivo.
-4. Execute o arquivo "Pynary_Release.py".
+1. Access the "Binary Converter Project" folder.
+2. Locate the "Pynary_Release.py" file.
+3. Download the file.
+4. Execute the "Pynary_Release.py" file.
 
-**Observação:** Em caso de dúvida, consulte o manual "Pynary - Guia do Usuário.pdf" para obter orientações adicionais.
+**Note:** If you have any questions, refer to the "Pynary - User Guide.pdf" manual for additional guidance.
 
-## Notas Adicionais
+## Additional Notes
 
-Este projeto foi desenvolvido como parte de um teste de conhecimento em programação em Python e lógica. Ele representa uma oportunidade de demonstrar as habilidades individuais e em grupo na resolução de problemas e na implementação de soluções práticas.
+This project was developed as part of a test of knowledge in Python programming and logic. It represents an opportunity to demonstrate individual and group skills in problem-solving and implementing practical solutions.
+
 
